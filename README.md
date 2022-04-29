@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Kusnap, DevOps Automation Tooling
+- 🔭 I’m currently working on DevOps Automation Tooling
 - 🌱 I’m currently learning DevOps Automation Tooling
 - 👯 I’m looking to collaborate on Golang and Ruby projects
 - 💬 Ask me about Startups
